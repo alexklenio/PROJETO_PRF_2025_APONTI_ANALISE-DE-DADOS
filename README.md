@@ -52,7 +52,6 @@ Com essa classificação, torna-se possível separar os registros entre acidente
 ## Organização do repositório
 
 ```text
-Estrutura do projeto
 PROJETO_PRF_2025_APONTI_ANALISE-DE-DADOS/
 ├── README.md
 └── MÓDULO 01/
@@ -82,7 +81,6 @@ PROJETO_PRF_2025_APONTI_ANALISE-DE-DADOS/
         ├── familias_exemplo.csv
         ├── ods1_apresentacao.pptx
         └── ods1v5.py
-
 ---
 
 ## Progresso da trilha
