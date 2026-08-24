@@ -25,7 +25,6 @@ De forma geral, a formação envolve competências como:
 
 Um diferencial importante da FAP é justamente a combinação entre formação técnica e experiência prática. O programa prevê a possibilidade de uma Residência Técnica de três meses, na qual os participantes selecionados podem aplicar os conhecimentos adquiridos em projetos reais de empresas parceiras. A APONTI também utiliza projetos integradores para aproximar os estudantes de problemas concretos do mercado.
 
-Em resumo, a trilha de Análise de Dados da FAP pode ser entendida como uma formação acelerada para quem deseja sair de uma base inicial e desenvolver competências para atuar com programação, tratamento, análise e interpretação de dados, com uma abordagem voltada à empregabilidade e às necessidades reais do setor de tecnologia.
 ### Repositório destinado às entregas dos desafios de projeto da formação.
 
 <div align="center">
