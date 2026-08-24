@@ -30,9 +30,9 @@ Em resumo, a trilha de Análise de Dados da FAP pode ser entendida como uma form
 
 <div align="center">
   <p>
-      <img src="https://img.shields.io/github/languages/count/alexklenio/DIO-Microsoft-Azure-Fundamentals"/>
-      <img src="https://img.shields.io/github/repo-size/alexklenio/DIO-Microsoft-Azure-Fundamentals"/>
-      <img src="https://img.shields.io/github/last-commit/alexklenio/DIO-Microsoft-Azure-Fundamentals"/>
-      <img src="https://img.shields.io/github/issues/alexklenio/DIO-Microsoft-Azure-Fundamentals"/>
+      <img src="https://img.shields.io/github/languages/count/alexklenio/PROJETO_PRF_2025_APONTI_ANALISE-DE-DADOS"/>
+      <img src="https://img.shields.io/github/repo-size/alexklenio/PROJETO_PRF_2025_APONTI_ANALISE-DE-DADOS"/>
+      <img src="https://img.shields.io/github/last-commit/alexklenio/PROJETO_PRF_2025_APONTI_ANALISE-DE-DADOS"/>
+      <img src="https://img.shields.io/github/issues/alexklenio/PROJETO_PRF_2025_APONTI_ANALISE-DE-DADOS"/>
   </p> 
 </div>
